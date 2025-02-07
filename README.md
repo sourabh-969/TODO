@@ -6,7 +6,7 @@ A simple interactive To-Do List application built with React and styled with Tai
 
 <table>
 <tr><h2>Home Page</h2><br><img src="./public/screenshot/Rootpage1.jpeg"></tr>
-<tr><h2>Add, Delete, & Mark Functionality</h2><br><img src="./public/screenshot/Feature.jpeg"></tr>
+<tr><h2>Add, Delete, Edit, & Mark Functionality</h2><br><img src="./public/screenshot/Feature.jpeg"></tr>
 </table>
 
 ## Features
