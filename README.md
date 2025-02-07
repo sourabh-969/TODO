@@ -5,7 +5,8 @@
 A simple interactive To-Do List application built with React and styled with Tailwind CSS. It allows users to add, edit, delete, and mark tasks as completed.
 
 <table>
-
+<tr><h2>Home Page</h2><br><img src="./public/screenshot/Rootpage.jpeg"></tr>
+<tr><h2>Add, Delete, & Mark Functionality</h2><br><img src="./public/screenshot/Feature.jpeg"></tr>
 </table>
 
 ## Features
@@ -35,4 +36,3 @@ To install and run the To-Do List Application :
 
 # Start the development server:
 >>npm run dev
-
