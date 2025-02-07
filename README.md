@@ -1,11 +1,11 @@
-<h2>Click Here For Live Preview : &nbsp;<a href="https://sourabh-969.github.io/ToDo">ToDo</a></h2>
+<h2>Click Here For Live Preview : &nbsp;<a href="https://sourabh-969.github.io/TODO/">ToDo</a></h2>
 
 # To-Do List Application
 
 A simple interactive To-Do List application built with React and styled with Tailwind CSS. It allows users to add, edit, delete, and mark tasks as completed.
 
 <table>
-<tr><h2>Home Page</h2><br><img src="./public/screenshot/Rootpage.jpeg"></tr>
+<tr><h2>Home Page</h2><br><img src="./public/screenshot/Rootpage1.jpeg"></tr>
 <tr><h2>Add, Delete, & Mark Functionality</h2><br><img src="./public/screenshot/Feature.jpeg"></tr>
 </table>
 

@@ -1,6 +1,6 @@
 {
   "name": "project",
-  "homepage": "https://sourabh-969/github.io/TODO",
+  "homepage": "https://sourabh-969.github.io/TODO/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,7 +9,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "perdeploy": "npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
